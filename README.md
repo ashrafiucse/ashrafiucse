@@ -1,3 +1,5 @@
+![Ashraf Ali FB Page Cover](https://github.com/user-attachments/assets/c8b86c31-ea51-4715-91dc-acddf2a3baf3)
+
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
