@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Cypress**
-
-- 📄 Know about my experiences [https://shorturl.at/Ox4uD](https://shorturl.at/Ox4uD)
+- 🌱 I’m currently learning **Selenium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
