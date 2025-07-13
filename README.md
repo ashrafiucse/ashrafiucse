@@ -27,13 +27,13 @@
 
 ### 💼 Featured Projects
 
-📌 **Legal Assist** – Case Management Software  
-*Case tracking, task assignments, document management, and legal notices*  
-`Role: QA Engineer | Platform: Web | Testing Type: Manual & Automation`
-
 📌 **Klasio** – Learning Management System  
 *Web & mobile platform for managing academic courses and progress*  
 `Role: QA Engineer | Platform: Web & Mobile | Testing Type: Manual & Automation`
+
+📌 **Legal Assist** – Case Management Software  
+*Case tracking, task assignments, document management, and legal notices*  
+`Role: QA Engineer | Platform: Web | Testing Type: Manual`
 
 📌 **PerfumanceBD** – E-commerce with POS  
 *Retail & POS-integrated platform for online orders and inventory control*  
