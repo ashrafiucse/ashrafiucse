@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-🚀 Associate SQA Engineer at **FIGLAB**  
+🚀 SQA Engineer at **FIGLAB**  
 🎓 B.Sc (Engg.) in CSE – *Islamic University, Bangladesh*  
 🌍 Based in Dhaka, Bangladesh  
 💬 Passionate about **quality-first development**, **collaborative teams**, and **continual learning**
